@@ -19,7 +19,6 @@
 		"SideBarEnhancements",
 		"SublimeGit",
 		"SublimeLinter",
-		"SublimeLinter-flake8",
-		"SublimeLinter-jshint"
+		"SublimeLinter-flake8"
 	]
 }
