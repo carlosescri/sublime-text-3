@@ -25,8 +25,6 @@ Visit [installation page](https://packagecontrol.io/installation) and follow ins
 
 ```
 # SublimeLinter-jshint
-npm i -g jshint
-
 # SublimeLinter-flake8
 # http://flake8.readthedocs.io/en/latest/user/error-codes.html
 pip install --upgrade pep8 flake8 flake8-docstrings
