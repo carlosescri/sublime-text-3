@@ -20,3 +20,8 @@ $ git reset --hard origin/master
 ## Install Package Control
 
 Visit [installation page](https://packagecontrol.io/installation) and follow instructions.
+
+## Install Required Fonts
+
+- [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
+- [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
