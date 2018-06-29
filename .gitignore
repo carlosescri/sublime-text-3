@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# Except specific files
+!.gitignore
+!*.sublime-settings
+!LICENSE
+!README.md

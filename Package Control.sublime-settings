@@ -1,3 +1,18 @@
 {
-	"bootstrapped": true
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"BracketHighlighter",
+		"Colorsublime",
+		"Emmet",
+		"Emoji",
+		"GitGutter",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeGit"
+	]
 }
