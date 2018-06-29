@@ -24,7 +24,9 @@ Visit [installation page](https://packagecontrol.io/installation) and follow ins
 ## Install Dependencies
 
 ```
-# SublimeLinter-jshint
+# SublimeLinter-eslint
+npm i -g eslint
+
 # SublimeLinter-flake8
 # http://flake8.readthedocs.io/en/latest/user/error-codes.html
 pip install --upgrade pep8 flake8 flake8-docstrings
