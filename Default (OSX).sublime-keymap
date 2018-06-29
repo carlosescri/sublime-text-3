@@ -1,0 +1,6 @@
+[
+  { "keys": ["ctrl+alt+up"], "command": "select_lines", "args": {"forward": false} },
+  { "keys": ["ctrl+alt+down"], "command": "select_lines", "args": {"forward": true} },
+  { "keys": ["super+v"], "command": "paste_and_indent" },
+  { "keys": ["super+shift+v"], "command": "paste" }
+]
