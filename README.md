@@ -25,3 +25,7 @@ Visit [installation page](https://packagecontrol.io/installation) and follow ins
 
 - [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
 - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
+
+## Cool Color Schemes
+
+- Oceanic Next
