@@ -17,6 +17,9 @@
 		"Origami",
 		"Package Control",
 		"SideBarEnhancements",
-		"SublimeGit"
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-jshint"
 	]
 }

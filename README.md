@@ -21,7 +21,18 @@ $ git reset --hard origin/master
 
 Visit [installation page](https://packagecontrol.io/installation) and follow instructions.
 
-## Install Required Fonts
+## Install Dependencies
+
+```
+# SublimeLinter-jshint
+npm i -g jshint
+
+# SublimeLinter-flake8
+# http://flake8.readthedocs.io/en/latest/user/error-codes.html
+pip install --upgrade pep8 flake8 flake8-docstrings
+```
+
+## Install Required / Suggested Fonts
 
 - [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
 - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)

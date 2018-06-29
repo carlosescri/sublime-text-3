@@ -1,0 +1,12 @@
+// SublimeLinter Settings - User
+{
+	"show_panel_on_save": "view",
+	"linters": {
+		"flake8": {
+			"args": [
+				"--ignore=D100"
+			],
+			"python": 2
+		}
+	}
+}
