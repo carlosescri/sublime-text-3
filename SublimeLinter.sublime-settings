@@ -7,6 +7,9 @@
 				"--ignore=D100"
 			],
 			"python": 2
+		},
+		"eslint": {
+			"selector": "text.html.vue, source.js - meta.attribute-with-value"
 		}
 	}
 }
