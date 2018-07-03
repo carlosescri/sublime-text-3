@@ -4,7 +4,7 @@
 	"linters": {
 		"flake8": {
 			"args": [
-				"--ignore=D100"
+				"--ignore=D100,D413,W602"
 			],
 			"python": 2
 		},
