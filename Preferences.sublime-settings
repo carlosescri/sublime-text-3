@@ -31,7 +31,7 @@
 	"show_navigation_bar": false,
 	"tab_size": 2,
 	"theme": "ayu-dark.sublime-theme",
-	"translate_tabs_to_spaces": false,
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"ui_font_roboto_mono": true,
 	"ui_font_size_small": false,
