@@ -37,5 +37,9 @@
 	"ui_font_size_small": false,
 	"ui_font_source_code_pro": false,
 	"ui_separator": true,
-	"ui_wide_scrollbars": true
+	"ui_wide_scrollbars": true,
+	"additional_path_items": [
+		"/usr/local/bin",
+		"~/Developer/Meta/Bin"
+	]
 }
