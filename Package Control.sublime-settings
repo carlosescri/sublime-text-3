@@ -15,9 +15,12 @@
 		"DocBlockr",
 		"DocBlockr_Python",
 		"Dockerfile Syntax Highlighting",
+		"Elixir",
 		"Emmet",
 		"Emoji",
+		"Fix Mac Path",
 		"GitGutter",
+		"Handlebars",
 		"HTML-CSS-JS Prettify",
 		"Origami",
 		"Package Control",
@@ -26,6 +29,7 @@
 		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
-		"SublimeLinter-flake8"
+		"SublimeLinter-flake8",
+		"Vue Syntax Highlight"
 	]
 }
